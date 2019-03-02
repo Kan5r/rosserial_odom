@@ -1,1 +1,2 @@
 # rosserial_odom
+部室にあった計測３輪でオドメトリを行い、rosserialを使って、geometry_msgs/Pose2Dをpublishしたり、tfをbroadcastした。
