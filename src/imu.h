@@ -34,7 +34,7 @@ class Imu {
               } else {
                 counter = 0;
                 state = 0;
-              }
+              
               break;
             case 2:
               buffer[counter++] = data;
